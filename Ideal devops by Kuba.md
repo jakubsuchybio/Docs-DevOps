@@ -49,5 +49,6 @@
     - Logs
       - Write atomically whole job when it finishes
       - Or make links to the parallel jobs where there would be some live logs shown
-    - Maybe use Azure Aspire for logging and managing the whole pipeline? With minikube?
-- Maybe use 
+    - Maybe use Azure Aspire for logging and managing the whole pipeline? With minikube? It should be web based
+    - Maybe use testcontainer somehow for tests?
+    - Maybe use https://github.com/brthor/Dockerize.NET somehow?
