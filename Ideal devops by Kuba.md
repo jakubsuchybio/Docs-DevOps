@@ -44,3 +44,10 @@
   - Solutions for challenges
     - Parallelization
       - sandboxie? => NO-GO, sandboxie can't run inside docker
+      - dind?
+      - serverless???
+    - Logs
+      - Write atomically whole job when it finishes
+      - Or make links to the parallel jobs where there would be some live logs shown
+    - Maybe use Azure Aspire for logging and managing the whole pipeline? With minikube?
+- Maybe use 
